@@ -1,8 +1,10 @@
-# matrix.py
+# mlib 
 
-## What is it
+mlib contains some math based python code used for educational and tinkering purposes. It originally lived in data-sci but was ported to its own repo.
 
-An implementation of matrices and vectors in python. 
+## Matrix.py
+
+An implementation of matrices and vectors in python using python lists
 
 ## API
 
